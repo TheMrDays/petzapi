@@ -2,8 +2,8 @@
   "profile": {
     "name": "Moshi",
     "breed": "Chihuahua",
-    "genre": "male"
-    "human_parents": "Furuseira"
+    "genre": "male",
+    "human_parents": "Furuseira",
     "image" : "https://static1.patasdacasa.com.br/articles/0/59/0/@/2140-o-chihuahua-e-conhecido-pela-personalida-article_media_mobile-2.jpg"
   }
 }
